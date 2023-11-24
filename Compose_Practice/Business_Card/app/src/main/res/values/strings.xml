@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="profile_name">Jose Muthuan</string>
+    <string name="profile_title">Android Developer</string>
+    <string name="phone_contact">+54(351)888-9999</string>
+    <string name="social_media_contact">\@josemuthuan</string>
+    <string name="email_contact">josemuthuan@gmail.com</string>
+</resources>

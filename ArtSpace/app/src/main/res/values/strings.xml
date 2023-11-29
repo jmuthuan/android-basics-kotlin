@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artist_1">Elti Meshau</string>
+    <string name="artwork_1">Silhouette of Man Standing Against Black And Red Background
+</string>
+    <string name="artist_2">Jessica Lewis</string>
+    <string name="artwork_2">Brown and Black Cut-away Acoustic Guitar
+</string>
+    <string name="artist_3">Markus Spiske</string>
+    <string name="artwork_3">Soccer</string>
+    <string name="artist_4">Anthony</string>
+    <string name="artwork_4">Xbox One Controller Beside Three Xbox One Cases
+</string>
+    <string name="artist_5">Kevin Ku</string>
+    <string name="artwork_5">Data Codes through Eyeglasses
+</string>
+</resources>

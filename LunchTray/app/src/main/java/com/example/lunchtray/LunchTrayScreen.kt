@@ -89,9 +89,9 @@ fun LunchTrayAppBar(
 
 
 @Composable
-fun LunchTrayApp() {
+fun LunchTrayApp(navController: NavHostController = rememberNavController()) {
     // TODO: Create Controller and initialization
-    val navController = rememberNavController()
+    //val navController = rememberNavController()
 
     val backStackEntry by navController.currentBackStackEntryAsState()
 
